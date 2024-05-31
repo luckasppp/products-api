@@ -14,7 +14,6 @@ import com.lucasdev.springboot.repositories.ProductRepository;
 
 import jakarta.validation.Valid;
 
-
 @RestController
 public class ProductController {
 
